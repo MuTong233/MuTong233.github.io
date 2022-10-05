@@ -1,5 +1,7 @@
 ---
 title: SDVX鼠标映射软件使用
+date: 2022-09-26
+updated: 2022-09-26
 ---
 # Mouse2Key 使用说明
 
