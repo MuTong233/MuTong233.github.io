@@ -1,7 +1,7 @@
 ---
 title: Hello World!
 date: 2022-08-31
-updated: 2022-10-5
+updated: 2022-10-05
 ---
 MyGensou的新博客正式扬帆起航了，这次由于迁移到了Github Pages所以会损失绝大部分功能。
 博客的新引擎采用了Hexo+Kratos架构，所以会比较难更新（
